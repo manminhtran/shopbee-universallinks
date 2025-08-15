@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "68286ZFM2K.com.dev.man.DeferredLink",
+        "paths": [
+          "/app/*",
+          "/product/*",
+          "/link/*"
+        ]
+      }
+    ]
+  }
+}
