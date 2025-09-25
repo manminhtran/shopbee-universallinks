@@ -13,7 +13,7 @@
     "details": [
       {
         "appID": "A46P59X4W2.com.phongha.ShopHelp.Clip",
-        "paths": [ "/clop/*" ]
+        "paths": [ "/clop", "/clop/*" ] 
       }
     ]
   }
