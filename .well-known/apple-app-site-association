@@ -3,19 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "68286ZFM2K.com.dev.man.DeferredLink",
-        "paths": [
-          "/products/*",
-          "/checkout/*",
-          "/qr/*",
-          "NOT /admin/*"
-        ]
+        "appID": "A46P59X4W2.com.phongha.ShopHelp",
+        "paths": [ "*" ]
       }
     ]
   },
-  "webcredentials": {
+  "appclips": {
     "apps": [
-      "68286ZFM2K.com.dev.man.DeferredLink"
+      "A46P59X4W2.com.phongha.ShopHelp.Clip"
     ]
   }
 }
